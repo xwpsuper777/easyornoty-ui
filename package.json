@@ -1,6 +1,6 @@
 {
   "name": "easyornoty-ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "一个ui组件库",
   "main": "dist/index.umd.js",
   "keywords": [
